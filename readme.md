@@ -1,5 +1,6 @@
 # Sitecore.Support.256440
-ResolveMultilanguageSitecoreItemDictionaryPipelineStep can't resolve more than 10 languages
+ResolveMultilanguageSitecoreItemDictionaryPipelineStep can't resolve more than 10 languages.
+
 Includes also the patch Sitecore.Support.227828.
 
 ## License  
